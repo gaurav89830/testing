@@ -1,0 +1,151 @@
+.homelogo {
+  height: 30px;
+  width: 30px;
+  margin: 0;
+}
+/* for full screen */
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navi_bar {
+  background-color: black;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.phone_img_1 {
+  width: 80%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  /*margin-left: auto;
+  margin-right: auto;*/
+}
+
+
+.heading_1{
+  text-align: center;
+  text-size-adjust: 100px;;
+  padding-top: 5%;
+  padding-bottom: 0;
+  font-size: 40px;
+}
+
+.heading_2 {
+  text-align: center;
+  font-size: 70px;
+}
+
+.subtxt {
+  color: #a6a6a4;
+}
+
+.h2t{
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5%;
+  margin-top: 5%;
+
+  color: #a6a6a4;
+}
+
+#features {
+  text-align: center;
+  padding: 5% 5% 5% 5%;
+  background-color: black;
+  color: white;
+}
+
+.heading_3 {
+  font-size: 40px;
+}
+
+.my_button {
+  color: #494949 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 20px;
+  border: 0px solid black !important;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+
+
+  .my_button:hover {
+  text-decoration: none;
+  color: #ffffff !important;
+  background: black;
+  border-color:black !important;
+  transition: all 0.4s ease 0s;
+  }
+
+  #homepage {
+    color: white;
+    font-size: 1em;
+  }
+  #homepage:hover {
+    background-color: white;
+    color: black;
+  }
+
+
+  .testimonial-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+  }
+
+  #testimonials {
+    background-color:#5c969e;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 7%;
+  }
+
+  .testimonial-text {
+    color: white;
+    font-size: 40px; 
+    padding-left: 10%;
+    padding-right: 10%;
+    }
+
+/*
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  color: black;
+  background-color: black;
+  content: "\f0c7";
+}*/
+
+.caroselpress {
+  width: 15%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+#press {
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+#pricing {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+/*
+#pricing {
+
+  color: white;
+  background-color: black;
+}
+
+.card {
+  background-color: black;
+}
+*/
